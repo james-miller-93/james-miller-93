@@ -21,11 +21,5 @@ methods, and the security of machine learning software.
 - **[Assessing YOLOv7's security](https://blog.trailofbits.com/2023/11/15/assessing-the-security-posture-of-a-widely-used-vision-model-yolov7/)**
   — Threat modeling and security review of a widely used vision framework.
   Coauthored with Alvin Crighton, Anusha Ghosh, Suha Sabi Hussain, and Heidy Khlaaf.
-- **[Cryptographic design review of Ockam](https://blog.trailofbits.com/2024/03/05/cryptographic-design-review-of-ockam/)**
-  — Protocol design review combining manual analysis and formal methods.
-  Coauthored with Joop van de Pol, Marc Ilunga, and Fredrik Dahlgren.
 
 [More writing at Trail of Bits →](https://blog.trailofbits.com/authors/jim-miller/)
-
-These links credit the original publications and collaborators. Older coursework
-and historical forks remain available in my archived repositories.
